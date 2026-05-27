@@ -197,8 +197,7 @@ diet-choice-skill/
 
 ## GPT 連結
 
-AI 外食減脂判斷助手：(https://chatgpt.com/g/g-6a1697be0b2c8191b66646ebb622906b-ai-wai-shi-jian-zhi-pan-duan-zhu-shou)
-
+AI 外食減脂判斷助手：[點我開啟 GPT](https://chatgpt.com/g/g-6a1697be0b2c8191b66646ebb622906b-ai-wai-shi-jian-zhi-pan-duan-zhu-shou)
 ## 作者
 
 林姓學生期末作品
